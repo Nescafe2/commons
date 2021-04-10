@@ -1,7 +1,7 @@
 ﻿code,name,lang_code,is_active,cr_by,cr_dtimes
-MLE,Male,eng,TRUE,superadmin,now()
-FLE,Female,eng,TRUE,superadmin,now()
-MLE,الذكر,ara,TRUE,superadmin,now()
-FLE,أنثى,ara,TRUE,superadmin,now()
-MLE,Mâle,fra,TRUE,superadmin,now()
-FLE,Femelle,fra,TRUE,superadmin,now()
+FLE,أنثى,ara,true,superadmin,now()
+FLE,Femme,eng,true,superadmin,now()
+FLE,Femme,fra,true,superadmin,now()
+MLE,ذكر,ara,true,superadmin,now()
+MLE,Homme,eng,true,superadmin,now()
+MLE,Homme,fra,true,superadmin,now()
